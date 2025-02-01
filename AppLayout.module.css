@@ -1,0 +1,13 @@
+/* App layout styling */
+.appLayout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main content styling */
+.mainContent {
+  margin-top: 72px; /* Adjust based on navbar height */
+  flex: 1;
+  background-color: #f9fafb;
+}
