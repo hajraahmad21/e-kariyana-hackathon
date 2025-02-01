@@ -16,9 +16,9 @@ const RestaurantSection = () => {
           className={styles.restaurantImage}
         />
         <div className={styles.card}>
-          <h3>List your restaurant or shop on e-kirana</h3>
+          <h3>List your  shop on e-kirana</h3>
           <p>
-            Would you like millions of new customers to enjoy your amazing food
+            Would you like millions of new customers to buy your  shop items
             and groceries? So would we!
           </p>
           <p>

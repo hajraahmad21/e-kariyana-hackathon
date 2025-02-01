@@ -53,7 +53,7 @@ const Dashboard = () => {
                 className={styles.restaurantImage}
               />
               <h3 className={styles.restaurantName}>Shop Name</h3>
-              <p className={styles.restaurantCuisine}>Cuisine Type</p>
+              <p className={styles.restaurantCuisine}>Shop Type</p>
               <p className={styles.restaurantRating}>⭐ 4.5 (500+ ratings)</p>
             </div>
           ))}
@@ -65,7 +65,7 @@ const Dashboard = () => {
         <h2 className={styles.sectionTitle}>Explore by Category</h2>
         <div className={styles.categoryGrid}>
           {[
-            "grossary",
+            "grocery",  
             "snacks",
             "sanitary items",
             "bed sheets",
